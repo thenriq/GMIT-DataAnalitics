@@ -1,3 +1,5 @@
+
+
 # Thiago Lima
 # Telling whether or not today is a weekday.
 
