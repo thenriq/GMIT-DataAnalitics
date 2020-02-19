@@ -20,4 +20,3 @@ def squarenumber(number):
 posnumber = float(input("Please enter a positive number: "))
 
 print("The square root of",posnumber,"is approx.%.1f"%round((squarenumber(posnumber)),1))
-#"{0:.2f}".format(a))
