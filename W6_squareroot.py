@@ -1,5 +1,5 @@
 # Thiago Lima
-# Calculating square root of a number and outputing an approximation of its square root.
+# Calculating square root of a number and outputing an approximation of its square root
 
 """
 Weekly task 6
