@@ -36,7 +36,7 @@ next_guess2 = 4.5 - ((4.5 ** 2 - 8) / (2 * 8))
 next_guess2 = 3.7343
 next_guess3 = next_guess2
 next_guess1 - next_guess2 =  0.7657 (> 0.000001) 
-continue until error limit > 0.0000001
+continue until error limit < 0.0000001
 """
 """
 import math
