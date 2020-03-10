@@ -32,8 +32,8 @@ number = int(input("Please type a number: "))
 
 while number != 1:
     
-    if (number % 2) == 0:
+    if (number % 2) == 0: # if number is even, it is divided by 2
         number = number / 2
     else:
-        number = number * 3 + 1
+        number = number * 3 + 1 #if number is odd, it is multipled by 3 and added 1
     print("Number =",number)
