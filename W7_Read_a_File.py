@@ -1,54 +1,26 @@
 # Thiago Lima
+# This program ask for a file name (file must be in the same folder), then it asks for a
+# desired character to be seek throughout the program and outputs the number of this character occurence
 
 
-def readfile(filename,character):
-    f = open(filename,'r')
-    count =0
-
+def readfile(filename,character): # function definitions: it asks for a filename and the seek character
+    f = open(filename,'r') # user will input file name
+    count =0 # this will summarize the number of the seek character
     
-    for line in f:
-        for word in line.split():
-            for letter in list(word):
-                if (letter == character):
-                    count = count + 1
+    for line in f: #get the line
+        for word in line.split(): # split the line into words
+            for letter in list(word): # split the word into characters
+                if (letter == character): # compares whether or not each character is equal to the seek character
+                    count = count + 1 # if character is found, it is summarized with count
 
-    return count
+    return count # result of this function
     
 
 filename = str(input("Type the file name: "))
 character = str(input("Which character are you looking for? "))
 
+# the line below will print and call the funcion "readfile" at the same time
 print('Found', (readfile(filename,character)), 'occurrences of ',"'",character,"'" 'character')
             
 
 
-#f = open('read-a-file.py','r')
-
-#with open('.gitignore','r') as f:
-#    print(f.read())
-   #- for line in f:
-   #-     print (line)
-        #print(f.readline())
-    #for line in f:
-    #    print(line,end = '')
-
-
-
-#print(f.read())
-#print(f.readline(),end = '')
-"""
-letterCounter = 0
-for line in f:
-    for word in line.split():
-        for letter in list(word):
-            letterCounter[letter]+=1
-print(letterCounter)
-
-    
-
-#print(f.read(205))
-
-#print("This is the end")
-
-#f.close()
-"""
