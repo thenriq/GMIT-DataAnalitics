@@ -8,13 +8,14 @@ def readfile(filename,character): # function definitions: it asks for a filename
     count =0 # this will summarize the number of the seek character
     
     for line in f: #get the line
-        for word in line.split(): # split the line into words
-            for letter in list(word): # split the word into characters
-                if (letter == character): # compares whether or not each character is equal to the seek character
-                    count = count + 1 # if character is found, it is summarized with count
+        #for word in line.split(): # split the line into words
+        for letter in list(line): # split the word into characters
+            if (letter == character): # compares whether or not each character is equal to the seek character
+                count = count + 1 # if character is found, it is summarized with count
 
     return count # result of this function
     
+###############################################################
 
 filename = str(input("Type the file name: "))
 character = str(input("Which character are you looking for? "))
