@@ -2,12 +2,12 @@
 
 This repository contains all exercises proposed on module *PROGRAMING AND SCRIPTING* during the course **DATA ANALYTICS**, from ***GMIT - GALWAY-MAYO INSTITUTE OF TECHNOLOGY***. 
 
-<br/><br/><br/><br/>
+<br/><br/>
 ## PRE-REQUISITES
 
 In order to run the scripts in this repository, the **PYTHON INTERPRETER** must be installed on the local computer.
 The Python download requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space. 
-
+<br/><br/>
 ## INSTALLATION
 
 
@@ -53,10 +53,9 @@ During installation, it will show the various components it is installing and mo
 
 Python should now be installed.
 
-
+<br/><br/>
 
 ## VERIFYING
-
 
 1. Navigate to the directory **C:\Users\<user>\AppData\Local\Programs\Python\Python37** (or to whatever directory Python was installed: see the pop-up window for Installing step 3).
 
@@ -65,10 +64,7 @@ Python should now be installed.
 A pop-up window with the title **C:\Users\<user>\AppData\Local\Programs\Python\Python37\python.exe** appears, and inside the window; on the first line is the text **Python 3.7.4** ... (notice that it should also say 64 bit). Inside the window, at the bottom left, is the prompt >>>: type exit() to this prompt and press enter to terminate Python.
 
 *You should keep the file python-3.7.4.exe somewhere on your computer in case you need to reinstall Python (not likely necessary).*
-
-
-
-
+<br/><br/>
 ## SCRIPTS
 This repository contains the following scripts:
 
@@ -126,9 +122,7 @@ Basically, it counts how many times a character has occurred in a text
 - **W8_chart.py**:
 This program  plots a chart on screen based on these 3 formulas: f(x)=x, g(x)=x2 and h(x)=x3
 There is no input asked by user in this script
-
-
-
+<br/><br/>
 ## HOW TO RUN:
 
 The first step is to download this repository's content to the local computer. To do so, follow the steps below:
@@ -136,7 +130,7 @@ The first step is to download this repository's content to the local computer. T
 2. Click **DOWNLOAD ZIP**
 3. Unzip the file **GMIT-DataAnalitics-master.zip** to a folder
 
-
+<br/>
 
 ### STARTING THE PYTHON INTERPRETER
 
@@ -150,7 +144,6 @@ To open the command-line interpreter:
 - On **MAC OS X**, the system terminal is accessed through **Applications → Utilities → Terminal**. 
 
 
-
 #### RUNNING SCRIPTS USING PYTHON COMMAND
 
 You must have your prompt on the same directory where the scrips were unzipped. In this example, let's consider that the directory is going to be c:\users\download\scripts, once you are on prompt, type as below:
@@ -158,16 +151,14 @@ You must have your prompt on the same directory where the scrips were unzipped. 
 python script_name.py
 
 
-
+<br/><br/>
 ## AUTHOR
 ***THIAGO HENRIQUE LEAO DE LIMA***
-
-
-
+<br/><br/>
 ## BIBLIOGRAPHY
 How To Run Your Python Scripts (https://www.knowledgehut.com/blog/programming/run-python-scripts)
 Python Community (https://www.python.org/community/)
 
-
+<br/><br/>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
