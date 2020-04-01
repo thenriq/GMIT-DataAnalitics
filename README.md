@@ -2,7 +2,7 @@
 
 This repository contains all exercises proposed on module *PROGRAMING AND SCRIPTING* during the course **DATA ANALYTICS**, from ***GMIT - GALWAY-MAYO INSTITUTE OF TECHNOLOGY***. 
 
-<br/><br/>
+<br/>
 ## PRE-REQUISITES
 
 In order to run the scripts in this repository, the **PYTHON INTERPRETER** must be installed on the local computer.
@@ -53,7 +53,7 @@ During installation, it will show the various components it is installing and mo
 
 Python should now be installed.
 
-<br/><br/>
+<br/>
 
 ## VERIFYING
 
@@ -64,7 +64,7 @@ Python should now be installed.
 A pop-up window with the title **C:\Users\<user>\AppData\Local\Programs\Python\Python37\python.exe** appears, and inside the window; on the first line is the text **Python 3.7.4** ... (notice that it should also say 64 bit). Inside the window, at the bottom left, is the prompt >>>: type exit() to this prompt and press enter to terminate Python.
 
 *You should keep the file python-3.7.4.exe somewhere on your computer in case you need to reinstall Python (not likely necessary).*
-<br/><br/>
+<br/>
 ## SCRIPTS
 This repository contains the following scripts:
 
@@ -151,14 +151,14 @@ You must have your prompt on the same directory where the scrips were unzipped. 
 python script_name.py
 
 
-<br/><br/>
+<br/>
 ## AUTHOR
 ***THIAGO HENRIQUE LEAO DE LIMA***
-<br/><br/>
+<br/>
 ## BIBLIOGRAPHY
 How To Run Your Python Scripts (https://www.knowledgehut.com/blog/programming/run-python-scripts)
 Python Community (https://www.python.org/community/)
 
-<br/><br/>
+<br/>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
