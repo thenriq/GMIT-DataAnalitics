@@ -3,9 +3,10 @@
 This repository contains all exercises proposed on module *PROGRAMING AND SCRIPTING* during the course **DATA ANALYTICS**, from ***GMIT - GALWAY-MAYO INSTITUTE OF TECHNOLOGY***. 
 
 
+
 ## PRE-REQUISITES
 
-In order to run the scripts in this repository, the PYTHON INTERPRETER must be installed on the local computer.
+In order to run the scripts in this repository, the **PYTHON INTERPRETER** must be installed on the local computer.
 The Python download requires about 25 Mb of disk space; keep it on your machine, in case you need to re-install Python. When installed, Python requires about an additional 90 Mb of disk space. 
 
 ## INSTALLATION
@@ -31,7 +32,7 @@ The file should appear as python-3.7.4-amd64.exe
 
 
 #### INSTALLING :
-1. Double-click the icon labeling the file python-3.7.4-amd64.exe.
+1. **Double-click the icon labeling the file python-3.7.4-amd64.exe**.
 
 A Python 3.7.4 (64-bit) Setup pop-up window will appear. 
 
@@ -39,17 +40,17 @@ Ensure that the Install launcher for all users (recommended) and the Add Python 
 
 If the Python Installer finds an earlier version of Python installed on your computer, the Install Now message may instead appear as Upgrade Now (and the checkboxes will not appear).
 
-2. Highlight the Install Now (or Upgrade Now) message, and then click it. 
+2. **Highlight the Install Now (or Upgrade Now) message, and then click it**. 
 
 When run, a User Account Control pop-up window may appear on your screen. I could not capture its image, but it asks, Do you want to allow this app to make changes to your device. 
 
-3. Click the Yes button.
+3. **Click the Yes button**.
 
 A new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup Progress message and a progress bar. 
 
 During installation, it will show the various components it is installing and move the progress bar towards completion. Soon, a new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup was successfuly message. 
 
-4. Click the Close button. 
+4. **Click the Close button**. 
 
 Python should now be installed.
 
@@ -58,15 +59,14 @@ Python should now be installed.
 ## VERIFYING
 
 
-1. Navigate to the directory C:\Users\<user>\AppData\Local\Programs\Python\Python37 (or to whatever directory Python was installed: see the pop-up window for Installing step 3).
+1. Navigate to the directory **C:\Users\<user>\AppData\Local\Programs\Python\Python37** (or to whatever directory Python was installed: see the pop-up window for Installing step 3).
 
-2. Double-click the icon/file python.exe. 
+2. Double-click the icon/file **python.exe**. 
 
-A pop-up window with the title C:\Users\<user>\AppData\Local\Programs\Python\Python37\python.exe appears, and inside the window; on the first line is the text Python 3.7.4 ... (notice that it should also say 64 bit). Inside the window, at the bottom left, is the prompt >>>: type exit() to this prompt and press enter to terminate Python.
+A pop-up window with the title **C:\Users\<user>\AppData\Local\Programs\Python\Python37\python.exe** appears, and inside the window; on the first line is the text **Python 3.7.4** ... (notice that it should also say 64 bit). Inside the window, at the bottom left, is the prompt >>>: type exit() to this prompt and press enter to terminate Python.
 
-You should keep the file python-3.7.4.exe somewhere on your computer in case you need to reinstall Python (not likely necessary).
+*You should keep the file python-3.7.4.exe somewhere on your computer in case you need to reinstall Python (not likely necessary).*
 
-You may now follow the instructions to download and install Java (you should have already installed Java, but if you haven't, it is OK to do so now, so long as you install both Python and Java before you install Eclipse), and then follows the instruction to download and install the Eclipse IDE. Note: you need to download/install Java even if you are using Eclipse only for Python)
 
 
 
