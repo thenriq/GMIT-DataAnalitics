@@ -116,7 +116,7 @@ It is important to observe here that this script depends on an external function
 
 
 - **W7_Read_a_text_File.py**:
-This program ask for a text file name (both text file and python script must be in the same folder), then it asks for a desired character to be seek throughout the program and outputs the number of this character occurence
+This program ask for a text file name (both text file and python script must be in the same folder), then it asks for a desired character to be seek throughout the program and outputs the number of this character occurrence
 Basically, it counts how many times a character has occurred in a text
 
 
@@ -124,6 +124,7 @@ Basically, it counts how many times a character has occurred in a text
 This program  plots a chart on screen based on these 3 formulas: f(x)=x, g(x)=x2 and h(x)=x3
 There is no input asked by user in this script
 <br/><br/>
+
 ## HOW TO RUN:
 
 The first step is to download this repository's content to the local computer. To do so, follow the steps below:
