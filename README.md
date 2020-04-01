@@ -2,10 +2,7 @@
 
 This repository contains all exercises proposed on module *PROGRAMING AND SCRIPTING* during the course **DATA ANALYTICS**, from ***GMIT - GALWAY-MAYO INSTITUTE OF TECHNOLOGY***. 
 
-$~$
-$~$
-$~$
-
+<br/><br/><br/><br/>
 ## PRE-REQUISITES
 
 In order to run the scripts in this repository, the **PYTHON INTERPRETER** must be installed on the local computer.
