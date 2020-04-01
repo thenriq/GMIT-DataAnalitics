@@ -150,7 +150,7 @@ To open the command-line interpreter:
 
 You must have your prompt on the same directory where the scrips were unzipped. In this example, let's consider that the directory is going to be c:\users\download\scripts, once you are on prompt, type as below:
 
-python script_name.py
+***python script_name.py***
 
 
 <br/>
