@@ -156,7 +156,7 @@ python script_name.py
 
 ## AUTHOR
 ***THIAGO HENRIQUE LEAO DE LIMA***
-<br/>
+<br/><br/>
 
 ## BIBLIOGRAPHY
 How To Run Your Python Scripts (https://www.knowledgehut.com/blog/programming/run-python-scripts)
