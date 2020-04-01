@@ -2,7 +2,9 @@
 
 This repository contains all exercises proposed on module *PROGRAMING AND SCRIPTING* during the course **DATA ANALYTICS**, from ***GMIT - GALWAY-MAYO INSTITUTE OF TECHNOLOGY***. 
 
-
+$~$
+$~$
+$~$
 
 ## PRE-REQUISITES
 
