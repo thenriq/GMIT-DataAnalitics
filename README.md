@@ -161,6 +161,8 @@ You must have your prompt on the same directory where the scrips were unzipped. 
 
 ## BIBLIOGRAPHY
 How To Run Your Python Scripts (https://www.knowledgehut.com/blog/programming/run-python-scripts)
+<br/>
+
 Python Community (https://www.python.org/community/)
 
 <br/>
